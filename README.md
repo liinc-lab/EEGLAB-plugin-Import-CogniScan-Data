@@ -1,0 +1,1 @@
+# EEGLAB-plugin-Import-CogniScan-Data
